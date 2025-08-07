@@ -35,3 +35,11 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# vs code
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
